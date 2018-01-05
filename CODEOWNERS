@@ -1,0 +1,8 @@
+s is a comment.
+# Each line is a file pattern followed by one or more owners.
+
+# The owner of the code implementing the CNN is eiPi-1 (Mariyan Stoyanov).
+# These owners will be the default owners for everything in
+# the repo from Udacity.
+*       @cgearhart @luisguiserrano
+
